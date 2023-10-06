@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265212839817",
+    "project_id": "fir-testing-a3afb",
+    "storage_bucket": "fir-testing-a3afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265212839817:android:17181ce9f67453b44cc358",
+        "android_client_info": {
+          "package_name": "com.example.riceapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4sHoZkU1xESyc6MOcuYHL5hU3F7-ynEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
